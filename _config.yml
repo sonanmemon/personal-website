@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+    repository: sonanmemon/personal-website.github.io
 
 # social_media:
   # behance: your_username
