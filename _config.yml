@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
+    projects: "code.r"
    # repository: sonanmemon/sonanmemon.github.io
 
  #social_media:
@@ -49,11 +49,14 @@ projects:
 topics:
   - name: Applied Business Cycle Theory, Especially Expectation Driven and Endogenous Business Cycle Models
     #web_url: https://github.com/topics/css
-    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_url: https://oregoneconomicanalysis.files.wordpress.com/2016/05/tradadv0216.png
     
   - name: Applied Monetary Economics, Especially Central Bank Institutional Design and Macroeconomic Volatility
+    image_url: https://cdnuploads.aa.com.tr/uploads/Contents/2019/09/18/thumbs_b_c_6b1a931d50107d764bcaba855a28ed99.jpg?v=222511
     
   - name: Machine Learning, Especially RL and DNN's and Their Applications in Macroeconomics
+    image_url: https://www.docwirenews.com/wp-content/uploads/2019/06/1_p6ahiOqtwW6mxgk-WCDvlg.jpeg
+    
     
     
 
